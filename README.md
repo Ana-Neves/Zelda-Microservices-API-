@@ -77,7 +77,7 @@ Fullstack Developer - Contributor
 **Carolina Oliveira**
 Fullstack Developer - Contributor
 
-- LinkedIn: [Ana](https://www.linkedin.com/in/carolina-oliveira-da-silva-b61012320/)
+- LinkedIn: [Carolina](https://www.linkedin.com/in/carolina-oliveira-da-silva-b61012320/)
   
 
 **Gabriela Poock**
