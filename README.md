@@ -1,8 +1,5 @@
 # Zelda Microservices API - GC24 🍺💻
 
----
-
-![Zelda](assets/zelda)
 
 ---
 
